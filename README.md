@@ -18,7 +18,7 @@ Start the Expo development server:
 
 
 You can now explore the ImageFeed App, view images, and leave comments.
-![Alt Text](url_of_your_image)
+![Alt Text](https://github.com/salmoon7/InstagramClone/issues/2#issue-1932120411)
 Contributing
 We welcome contributions to improve the ImageFeed App. If you'd like to contribute, please follow these steps:
 
